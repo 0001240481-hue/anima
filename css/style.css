@@ -48,7 +48,7 @@ img {
     justify-content: space-between;
     align-items: center;
     gap: 25px;
-    background-color: #00629b;
+    background-color:#990145;
     border-bottom: 1px solid #e9e4de;
 }
 
@@ -151,9 +151,9 @@ img {
     position: absolute;
     width: 220px;
     height: 220px;
-    border: 5px solid #002364;
+    border: 5px solid #000000;
     border-radius: 50%;
-    opacity: 0.5;
+    
 }
 
 .decoracao-1 {
@@ -170,7 +170,7 @@ img {
 .sobre {
     padding: 90px 10%;
     text-align: center;
-    background: rgb(148, 189, 250);
+    background: rgb(90, 147, 239);
 }
 
 .sobre h2,
@@ -190,7 +190,7 @@ img {
 /* SERVIÇOS */
 .servicos {
     padding: 90px 8%;
-    background: #b7daf1;
+    background: #f379b0;
 }
 
 .servicos-intro {
@@ -211,10 +211,10 @@ img {
 .cartao {
     padding: 32px 26px;
     background: var(--verde);
-    border: 1px solid rgb(97, 170, 238);
+    border: 1px solid rgb(0, 3, 5);
     border-radius: 14px;
     transition: 0.3s;
-    background-color: #ebf3fc;
+    background-color: #f8dde8;
 }
 
 .cartao:hover {
@@ -276,8 +276,8 @@ img {
 
 .artigo {
     padding: 35px;
-    background: white;
-    border: 1px solid #e9ddcc;
+    background: rgb(250, 252, 216);
+    border: 1px solid #000000;
     border-radius: 12px;
 }
 
